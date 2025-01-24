@@ -1,6 +1,14 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.24;
 
+/*
+
+Twitter: https://x.com/MeetAurAI
+Telegram: https://t.me/UseAurAI
+Website: https://wiseaur.ai/
+
+*/
+
 // File @openzeppelin/contracts/utils/Context.sol@v4.8.1
 
 // OpenZeppelin Contracts v4.4.1 (utils/Context.sol)
